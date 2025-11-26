@@ -97,5 +97,11 @@ Build the application for production:
 ```bash
 npm run build
 ```
+## Team Members
+•⁠  Tanay kumar Chaubey (24SCSE1180691)
+## Team Members
+•⁠  ⁠Lucky Sharma (24SCSE1330020) 
+## Team Members
+•⁠  ⁠Harsh Rathour (24SCSE1011109)
 
 
